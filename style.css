@@ -1,6 +1,6 @@
 .footer{
-	background-color: #05386b;
-	color: #edf5e1;
+	background-color: #edf5e1;
+	color: #05386b;
 	height: 150px;
 }
 
@@ -28,8 +28,8 @@ li{
 }
 
 img{
-	width: 130px;
-	height: 33px;
+	width: 132px;
+	height: 28px;
 	margin: 0px;
 	padding: 7px 0px 0px 0px;
 }
@@ -42,7 +42,7 @@ img{
 
 a{
 	text-decoration: none;
-	color: #edf5e1;
+	color: #05386b;
 }
 
 
